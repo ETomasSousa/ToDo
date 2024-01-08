@@ -1,5 +1,5 @@
 package model;
 
-public class Console {
+public class Menu {
     
 }
