@@ -4,7 +4,7 @@ import java.time.LocalDate;
 
 public class Task{
 
-    private enum State{
+    public enum State{
         NEW,
         URGENT,
         ON_GOING
